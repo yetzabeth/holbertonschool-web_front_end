@@ -1,2 +1,2 @@
 # holbertonschool-web_front_end
-Advanced HTML
+holbertonschool-web_front_end
